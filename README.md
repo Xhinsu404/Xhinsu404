@@ -25,6 +25,31 @@ class Xvenn-03:
 
 <img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
 
+---
+```yaml
+Development:
+  Editor: 
+    mobile: ["Acode", "Quick Edit"]
+    terminal: ["Termux", "Linux Userland"]
+  
+System:
+  device: "Itel P55 NFC"
+  processor: "Unisoc T606"
+  os: "Android 13"
+  environment: ["Kali Linux", "Ubuntu"]
+```
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+
+➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
+
+</div>
+
 ## 🛠️ Tech Arsenal
 <div align="center">
 
