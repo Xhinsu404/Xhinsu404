@@ -16,13 +16,24 @@ class Xvenn-03:
     def get_daily_routine(self):
         return ["School", "Game", "Learn", "Repeat"]
 ```
-## 🌟 Featured Projects
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xvenn-03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xvenn-03&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xvenn-03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Xvenn-03&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+---
+## 🌟 Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=radical)](https://github.com/Xvenn-03/GhostSQLX)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
+
+➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
+
+</div>
 
 ```yaml
 Development:
@@ -36,16 +47,6 @@ System:
   os: "Android 14"
   environment: ["Kali Linux"]
 ```
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=radical)](https://github.com/Xvenn-03/GhostSQLX)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
-
-➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
-
-</div>
 
 <img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
 
