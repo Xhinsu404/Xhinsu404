@@ -1,4 +1,13 @@
 ![Xvenn-03](github-header-image.png)
+<p align="center">
+  <img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif">
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Im+Mr.X+a+Blackhat+Hacker" alt="Typing SVG" />
+  </a>
+</div>
+
 ### 💫 About Me:
 Hello, I'm Xvenn-03 with the real name KEVIN ABIL H. In the future, I will upload the python script that I made on this github, and I also want to say that this github account was created when I was 13, so I'm sorry if there is a python script that fails, thank you for reading the bio, remember to stay careful.
 
