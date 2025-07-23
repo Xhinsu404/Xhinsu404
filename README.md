@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nihao+Wo+Jiao+Xvenn-03;Hello+My+Name+Xvenn-03!&center=true&color=00FF00)](https://git.io/typing-svg)
 ![Xvenn-03](github-header-image.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nihao+Wo+Jiao+Xvenn-03;Hello+My+Name+Xvenn-03!&center=true&color=00FF00)](https://git.io/typing-svg)
 
