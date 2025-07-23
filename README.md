@@ -4,17 +4,17 @@
 
 ### 💫 About Me:
 ```python
-class WanzXploit:
+class Xvenn-03:
     def __init__(self):
-        self.name = "Wanz Xploit"
-        self.location = "Bali, Indonesia"
-        self.work = "Security Researcher & Developer"
-        self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
-        self.gaming = ["PS2 Classics", "MLBB", "COC"]
-        self.life_motto = "Simple tools, massive impact"
+        self.name = "Xvenn-03"
+        self.location = "East Java, Indonesia"
+        self.work = "Nothing"
+        self.interests = ["Cybersecurity", "GNU/Linux"]
+        self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "KABOOM"]
+        self.life_motto = "never be afraid to move forward"
     
     def get_daily_routine(self):
-        return ["Code", "Hack", "Learn", "Game", "Repeat"]
+        return ["School", "Game", "Learn", "Repeat"]
 ```
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
