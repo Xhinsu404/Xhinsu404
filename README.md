@@ -29,14 +29,14 @@ class Xvenn-03:
 ```yaml
 Development:
   Editor: 
-    mobile: ["Acode", "Quick Edit"]
+    mobile: ["Acode", "Mt manager"]
     terminal: ["Termux", "Linux Userland"]
   
 System:
-  device: "Itel P55 NFC"
-  processor: "Unisoc T606"
-  os: "Android 13"
-  environment: ["Kali Linux", "Ubuntu"]
+  device: "Samsung A14 4g"
+  processor: "Exynos 3830"
+  os: "Android 14"
+  environment: ["Kali Linux"]
 ```
 ## 🌟 Featured Projects
 
