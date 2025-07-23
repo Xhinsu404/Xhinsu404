@@ -1,6 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3AAFA9,100:2E7D32&height=200&section=header&text=Xvenn-03&fontSize=80&fontAlignY=40&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Python+Programer)](https://git.io/typing-svg)
 </div>
+---
 
 ### 💫 About Me:
 ```python
@@ -16,6 +17,7 @@ class Xvenn-03:
     def get_daily_routine(self):
         return ["School", "Game", "Learn", "Repeat"]
 ```
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xvenn-03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -32,6 +34,7 @@ class Xvenn-03:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
 
+---
 </div>
 
 ```yaml
