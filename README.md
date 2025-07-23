@@ -26,12 +26,11 @@ class Xvenn-03:
 ---
 
 ## 🌟 Projects
+<div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=radical)](https://github.com/Xvenn-03/GhostSQLX)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
-
-➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
 
 </div>
 
