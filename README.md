@@ -14,7 +14,7 @@ class Xvenn-03:
         self.life_motto = "never be afraid to move forward"
     
     def get_daily_routine(self):
-        return ["School", "Game", "Learn", "Repeat"]
+        return ["School", "Game", "Learn", "Coding", "Repeat"]
 ```
 ---
 
