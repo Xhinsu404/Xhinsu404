@@ -26,7 +26,7 @@ class Xvenn-03:
 
 ---
 
-## 🌟 Projects
+## 🌟 Top Projects
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=gotham)](https://github.com/Xvenn-03/GhostSQLX)
