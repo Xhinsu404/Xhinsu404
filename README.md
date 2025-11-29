@@ -52,7 +52,7 @@ System:
   environment: ["Kali Linux", "Debian"]
 ```
 
-<img src="https://raw.githubusercontent.com/Xhinsu4p4/Xhinsu404/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Xhinsu404/Xhinsu404/output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ Tech Arsenal
 <div align="center">
