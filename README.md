@@ -25,15 +25,6 @@ class Xhinsu404:
 [![](https://visitcount.itsvg.in/api?id=Xhinsu404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-## 🌟 Top Projects
-<div align="center">
-
-[![GhostSQLX](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu404&repo=GhostSQLX&theme=gotham)](https://github.com/Xhinsu404/GhostSQLX)
-[![PASENC](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu404&repo=PASENC&theme=gotham)](https://github.com/Xhinsu404/PASENC)
-[![StreamFlow](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu404&repo=StreamFlow&theme=gotham)](https://github.com/Xhinsu404/StreamFlow)
-
----
 </div>
 ## 🎯 Current Setup
 
