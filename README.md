@@ -35,7 +35,6 @@ class Xhinsu404:
 
 </div>
 ---
-</div>
 
 ## 🎯 Current Setup
 
